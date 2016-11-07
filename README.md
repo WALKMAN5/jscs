@@ -1,0 +1,2 @@
+# jscs
+JSCS config
